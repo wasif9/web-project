@@ -1,1 +1,1 @@
-Landing page for guitar tutorials
+Landing page for guitar lessons
