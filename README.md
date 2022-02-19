@@ -1,1 +1,1 @@
-# web-project
+Landing page for guitar lessons
